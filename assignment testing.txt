@@ -1,0 +1,95 @@
+                                        Assignment-1
+                                Introduction to Automation
+
+
+Q1. What is the difference between Manual Testing and Automation Testing?
+Ans:- Manual testing:-
+
+1.It is carried out manually where a tester himself executes all the steps e.g. in a test case.
+2.Manual testing is the most basic step. Without carrying out manual testing, one cannot proceed towards automation testing.
+3.In this kind of testing, testers carry out random testing in order to discover bugs.
+4.Due to error guessing technique followed in manual testing, we get more bugs in general than that of automation testing.
+5.Time consumed is more in this case.
+6.Manual testing is generally carried out in a sequential manner.
+7.Carrying out regression testing is tedious in manual testing.
+
+    Automation testing:-
+1.Automation testing can be said to be an integral and continuous part of manual testing.
+2.In case of automation testing, we do the testing of the application via running the scripts. Tools allow us to write   scripts and execute them as well.
+3.Automation testing is more useful when repetitive functionalities of the software are to be tested.
+4.Time consumed is less as expected.
+5.Automation testing is carried out on a number of machines at one time.
+6.Regression testing is easier to carry out during automation testing due to the use of tools.
+7.Fewer testers are required in Automation Testing on the grounds that in this test cases should be executed by utilizing   Automation Tools.
+
+**********************************************************************************************************************************************************************************************************************************************************
+
+Q2. What is Automation?
+Ans:- Automated testing tools are capable of executing tests, reporting outcomes and comparing results with earlier test       runs. Tests carried out with these tools can be run repeatedly, at any time of day. The method or process being used to       implement automation is called a test automation framework.
+
+**********************************************************************************************************************************************************************************************************************************************************
+
+Q3. Why to Automate a Project?
+Ans:- 
+1. Increase test coverage
+2. Consume less time in doing testing
+3. More reliable
+4. Improve Quality
+
+**********************************************************************************************************************************************************************************************************************************************************
+
+Q4. What are the advantages of Automation?
+Ans:-
+1. Less time consuming 
+2. Need less labour
+3. More reliable
+4. We can execute our script multiple times
+
+**********************************************************************************************************************************************************************************************************************************************************
+
+Q5. Name few test Automation Tools.
+Ans:-
+1. Selenium
+2. QTP (UFT)
+3. Robotium
+4. Soap UI
+5. Test Drive
+
+**********************************************************************************************************************************************************************************************************************************************************
+
+Q6. What are the benefits of Automation?
+Ans:- 
+1. Less time consuming
+2. Cost efficient
+3. continuity
+4. Reusability
+
+**********************************************************************************************************************************************************************************************************************************************************
+
+Q7. What is the need of Automation?
+Ans:- Automation testing will help to automate some repetitive tasks, resulting in faster execution with better test coverage       or outcomes. These days as software testing is moving towards automation, most of the software testers as well as QAs       are switching themselves from Manual testing to Automated testing.
+
+**********************************************************************************************************************************************************************************************************************************************************
+
+Q8. What is Framework?
+Ans:- A test automation framework is a set of assumptions, concepts, and practices that provide support for automated       software testing.
+
+**********************************************************************************************************************************************************************************************************************************************************
+
+Q9. What are the types of frameworks?
+Ans:-
+1. Linear Scripting
+2. The Test Library Architecture Framework.
+3. The Data-Driven Testing Framework.
+4. The Keyword-Driven or Table-Driven Testing Framework.
+5. The Hybrid Test Automation Framework.
+
+**********************************************************************************************************************************************************************************************************************************************************
+
+Q10. What is Keyword driven and Code Driven automation testing?
+Ans:- keyword driven:-
+      Keyword-driven testing, also known as table-driven testing or action word based testing, is a software testing       methodology suitable for both manual and automated testing. This method separates the documentation of test cases -      including the data to use- from the prescription of the way the test cases are executed. As a result it separates the       test creation process into two distinct stages: a design and development stage, and an execution stage.
+
+      Code Driven Testing:-
+      A growing trend in software development is the use of testing frameworks such as the xUnit frameworks (for example,       JUnit and NUnit) that allow the execution of unit tests to determine whether various sections of the code are acting as       expected under various circumstances.
+
